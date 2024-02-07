@@ -4,9 +4,9 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = '90cd4a77-141a-43c9-991b-08263cfe9c10';
+let userID = '0480dffd-1e93-44d1-9504-7dea42f9ecda';
 
-let proxyIP = 'proxyip.fxxk.dedyn.io';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。
+let proxyIP = '149.129.8.215';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。
 
 //let sub = '';// 留空则显示原版内容
 let sub = 'sub.cmliucdn.tk';// 内置优选订阅生成器，可自行搭建 https://github.com/cmliu/WorkerVless2sub
